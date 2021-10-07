@@ -8,4 +8,4 @@ The various features are-
 3) An strength arm to lift heavy objects
 4) A moving eye to give a realistic perspective
 5) A LED based smile for greeting
-6) A Screen Heart for any notes.
+6) A Screen Heart for notes.
